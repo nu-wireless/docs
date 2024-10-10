@@ -19,7 +19,7 @@ These bylaws were last updated $DATE. you can view the changes [here].
     2. Reapplication for continued access is required for each additional semester.
     3. For the purposes of these bylaws, the Summer 1 and Summer 2 semesters may be considered **one** Academic Semester.
 3. Tenets of Access
-    1. Access is a privilege and can be revoked at any time, for any reason, in accordance with section C of these bylaws.
+    1. Access is a privilege and can be revoked at any time, for any reason, in accordance with section D of these bylaws.
     2. Use of the lab space is exclusively for tech-oriented projects, coursework, or club related activities.
     3. Members are responsible for their actions and the actions of any Guests they bring to the Lab.
 4. Restricted Equipment
