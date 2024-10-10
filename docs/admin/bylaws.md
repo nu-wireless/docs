@@ -18,6 +18,7 @@ These bylaws were last updated $DATE. you can view the changes [here].
     1. Upon becoming a valid Member, access is granted for that Academic Semester only.
     2. Reapplication for continued access is required for each additional semester.
     3. For the purposes of these bylaws, the Summer 1 and Summer 2 semesters may be considered **one** Academic Semester.
+    4. Personal and class project storage must be cleaned out before the end of the semester unless agreed upon by the current Lab Manager.
 3. Tenets of Access
     1. Access is a privilege and can be revoked at any time, for any reason, in accordance with section D of these bylaws.
     2. Use of the lab space is exclusively for tech-oriented projects, coursework, or club related activities.
@@ -43,7 +44,7 @@ These bylaws were last updated $DATE. you can view the changes [here].
     1. All activities conducted in the Lab should be assumed public for all Members.
     2. Door usage as well as the lab space are monitored using a security and camera system.
         1. This footage may be held indefinitely and viewed by any of the Staff or Officers.
-    3. Storage for projects and 
+    3. Storage for personal and class projects may be accessed at any time by Club Staff and Officers.
 
 ### C. Staff Positions
 1. The Staff of the Club and their roles shall be:
@@ -89,3 +90,12 @@ These bylaws were last updated $DATE. you can view the changes [here].
 2. Amendment of this policy must be done in accordance with policy set forth in the Club Constitution.
 3. Club Board meetings are open to all Members. These meetings must be publicized and held at least every three weeks during the Fall and Spring Academic Semesters.
     1. If a sensitive topic is to be discussed, the Board may elect to hold a closed meeting.
+
+
+## TLDR:
+- **Don't** lie (to Members, Staff, and Officers). 
+- **Don't** steal (from the Shack or other Members). 
+- **Don't** let strangers in and leave them in the shack unattended. 
+- **Don't** use equipment you are untrained or unauthorized to use.
+- **Do** use the shack for projects and technical work.
+- **Do** ask other Members, Staff, and Officers for help.
