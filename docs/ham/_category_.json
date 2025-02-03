@@ -1,0 +1,8 @@
+{
+  "label": "Ham Radio Guides",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Guides and Procedures for Amateur Radio Equipment"
+  }
+}

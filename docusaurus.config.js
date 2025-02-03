@@ -12,6 +12,8 @@ const config = {
   tagline: 'Northeastern University Wireless Bylaws and Lab Docs',
   favicon: 'img/favicon.ico',
 
+  noIndex: true,
+
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
