@@ -15,6 +15,6 @@ The content in this site is still in-progress. Policies and guides should not be
 
 :::
 
-If you're here to read our [bylaws], [lab guides], or [ham equipment] guides, *you're in the right place!*
+If you're here to read our [bylaws](/docs/admin/bylaws.md), [lab guides], or [ham equipment] guides, *you're in the right place!*
 
 This site is built using [docusaurus](https://docusaurus.io/). It is hosted on [GitHub](https://github.com/jlefkoff/wireless-clubdocs). Contributions to guides are welcome. Changes to the bylaws must follow the process outlined in the club constitution.
