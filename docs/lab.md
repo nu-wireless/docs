@@ -106,9 +106,59 @@ Safety guidelines for **power tools**
 - Do not operate power tools while wearing loose clothing.
 - Tie back long hair and remove loose jewelry.
 
+## Personal Items
+
+If you are frequently in the shack and work on personal projects, you may
+request a drawer for personal project item storage. Vacant drawers may be
+allocated by club leadership to members.
+
+Drawer allocations generally will persist while you are a part of the club and
+continue holding a door code, unless it sits empty for a long time. You may also
+give up your drawer at any time. If you do not renew your door code access, you
+will forfeit your drawer allocation.
+
+Storing personal items outside of drawers should be approved with club
+leadership. If you are unsure if you are able to keep something in the shack,
+please contact the Lab Manager.
+
 ## Tool Usage
 
+In order to use certain tools and equipment in the shack, you **must** speak and
+be approved by the Lab Manager and complete any training required.
+
+:::warning
+
+The tools which **require approval** are:
+
+- HF radio setup (back of the shack)
+- 3D Printers
+
+:::
+
+Some tools don't require explicit permission, but should not be used unless you
+are comfortable with them. This items are either difficult to replace/repair if
+used incorrectly or can cause personal harm. If you are unsure, please take the
+time to learn from *a member of the club* before using them on your own.
+
+:::info
+
+The tools you should be *cautious* with are:
+
+- Soldering equipment
+- Electronic test equipment (oscilloscopes, network analyzers, etc.)
+- Power tools
+
+:::
+
 ## Borrowing Equipment
+
+Consumables are available to all members for personal projects without needing
+to check anything out. A limited number of more valuable items are available to
+check out for project use. Equipment like will always be marked with an **asset
+tag**.
+
+If you are interested in learning what you can check out or how to check
+something out, please speak with the Lab Manager.
 
 ## Access Revocation
 
@@ -174,9 +224,8 @@ Additionally, if no one else is using the tools, you must:
 - Ensure soldering irons are turned off.
 - Turn off the air conditioners.
 - Turn off the ham radio.
-- Turn off the stereo amp.
 
 If you are the last person leaving the lab:
 
 - Turn off any lights.
-- Shut and lock all windows.
+- Shut and lock windows.
