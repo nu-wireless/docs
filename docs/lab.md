@@ -24,16 +24,16 @@ code. The lab is accessible at all times under normal circumstances.
 
 ## General Expectations
 
-The club space is accessible for members with door codes. We encourage that you
-use the lab to work on personal projects, coursework or for club-related
-activities. Please be mindful that this is a communal space for club members and
-you must show respect for club property, other members, and personal belongings.
+The club space is accessible for members with door codes. We encourage you to
+use the lab for personal projects, coursework, or club-related activities.
+Please remember that this is a communal space for club members, and you must
+show respect for club property, other members, and personal belongings.
 
-There are computers in the lab which are available to members of the club.
-Please be aware that computers are connected to the university network and
+There are computers in the lab available to members of the club. Please be
+aware that these computers are connected to the university network and
 therefore subject to [university policy on network
 use](https://policies.northeastern.edu/policy700/). Priority should be given to
-ham radio operation for the computer connected to the radio in the back of the
+ham radio operation for the computer connected to the radio at the back of the
 shack.
 
 We encourage that you use electronic components and other consumables provided
@@ -81,9 +81,10 @@ and apply for renewal immediately.
 
 ## Safety Guidelines
 
-The Wireless Lab contains equipment which can cause personal harm if not handled
-properly. It's expected that you understand the dangers and know how to use a
-tool, if you choose to do so.  **Do not use tools you are not familiar with**.
+The Wireless lab contains equipment which can cause personal harm if not
+handled properly. It's expected that you understand the dangers and know how to
+use a tool, if you choose to do so. **Do not use tools you are not familiar
+with**.
 
 General safety guidelines:
 
@@ -108,17 +109,18 @@ Safety guidelines for **power tools**
 
 ## Personal Items
 
-If you are frequently in the shack and work on personal projects, you may
-request a drawer for personal project item storage. Vacant drawers may be
-allocated by club leadership to members.
+If you are frequently in the lab and work on personal projects, you may request
+a drawer for storing personal project items. Vacant drawers may be assigned to
+members by club leadership
 
 Drawer allocations generally will persist while you are a part of the club and
-continue holding a door code, unless it sits empty for a long time. You may also
-give up your drawer at any time. If you do not renew your door code access, you
-will forfeit your drawer allocation.
+continue holding a door code, unless it remains empty for a long time. You may
+also give up your drawer at any time. If you do not renew your door code
+access, your drawer allocated may be forfeited (although you will be notified
+beforehand).
 
-Storing personal items outside of drawers should be approved with club
-leadership. If you are unsure if you are able to keep something in the shack,
+Storing personal items outside of drawers must be approved with club
+leadership. If you are unsure if you are able to keep something in the lab,
 please contact the Lab Manager.
 
 ## Tool Usage
@@ -157,8 +159,8 @@ to check anything out. A limited number of more valuable items are available to
 check out for project use. Equipment like will always be marked with an **asset
 tag**.
 
-If you are interested in learning what you can check out or how to check
-something out, please speak with the Lab Manager.
+If you are interested in learning what items can be checked out or how the
+process works, please speak with the Lab Manager.
 
 ## Access Revocation
 
@@ -180,7 +182,7 @@ the future based on the discretion of the officer board.
 
 Please make note of the location of the fire extinguisher attached to the
 central column in the main room. If you believe club equipment was stolen, you
-should report this to club leadership in order to avoid misunderstandings.
+should report the incident to the officer board.
 
 :::danger
 
