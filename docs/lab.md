@@ -162,6 +162,28 @@ tag**.
 If you are interested in learning what items can be checked out or how the
 process works, please speak with the Lab Manager.
 
+## Special Circumstances
+
+Under extraordinary circumstances, parts of the lab or the entire lab may be
+temporarily inaccessible for general use. Examples include radio maintenance,
+facilities maintenance, or event preparation.
+
+A notice will be posted on the door of the lab and via Slack to explain the
+situation.
+
+## Guests
+
+Guests, excluding individuals under sanctions, can be brought into the lab by
+door code holders. If you bring someone to the lab or allow someone outside
+in, **you are responsible for their actions while they remain
+in the club space**. This rule does not apply when the lab is open to the
+general public, such as during weekly meetings, public events, and ham exams.
+
+It is perfectly understandable that you may need to step out of the lab briefly;
+however you may not leave guests unattended in the club space. If you need to
+leave the lab for more than a short period, please take your guest with you or
+coordinate with another door code holder to supervise them.
+
 ## Access Revocation
 
 Failure to follow rules outlined in this document may lead to an official
