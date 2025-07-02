@@ -134,6 +134,7 @@ The tools which **require approval** are:
 
 - HF radio setup (back of the shack)
 - 3D Printers
+- Power tools (excluding drills & impactors)
 
 :::
 
@@ -148,7 +149,7 @@ The tools you should be *cautious* with are:
 
 - Soldering equipment
 - Electronic test equipment (oscilloscopes, network analyzers, etc.)
-- Power tools
+- Power drills & impactors
 
 :::
 
