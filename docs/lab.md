@@ -7,8 +7,9 @@ slug: /lab
 
 :::info
 
-This version of the document is a **draft** and does not constitute official
-club policy.
+This lab policy applies to door holders starting from the **2025 Fall Cycle**.
+This version of the lab policy was last modified on Jul 2, 2025 and has been
+ratified by Wireless officers on Jul 4, 2025.
 
 :::
 
