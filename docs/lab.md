@@ -196,8 +196,8 @@ The current *President*, *Vice-President*, and *Lab Manager* are able to:
 - Suspend lab access for up to a week for major offences or during
   investigations.
 
-Full access revocation may only be administered though a majority vote at
-an officer board meeting.
+Full access revocation may only be administered through a majority vote at an
+officer board meeting.
 
 If your lab access was revoked, you may be deemed ineligible for lab access in
 the future based on the discretion of the officer board.
