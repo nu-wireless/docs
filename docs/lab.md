@@ -78,7 +78,7 @@ If you accidentally leak your code, you should report it immediately to an
 If you held a door code during the previous cycle, you can skip requirement 3
 and apply for renewal immediately.
 
-If you did not hold a code during the previous cycle due to co-op, study abroad, or another semester-long absense, but did hold a door code for the cycle before then, you can skip requirement 3 and apply for renewal immediately.
+If you did not hold a code during the previous cycle due to co-op, study abroad, or another semester-long absence, but did hold a door code for the cycle before then, you can skip requirement 3 and apply for renewal immediately.
 
 :::
 
