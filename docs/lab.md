@@ -7,9 +7,11 @@ slug: /lab
 
 :::info
 
-This lab policy applies to door holders starting from the **2025 Fall Cycle**.
-This version of the lab policy was last modified on Jul 2, 2025 and has been
-ratified by Wireless officers on Jul 4, 2025.
+**This lab policy is a draft**
+
+<!-- This lab policy applies to door holders starting from the **2026 Spring Cycle**. -->
+<!-- This version of the lab policy was last modified on Dec 15, 2025 and has been -->
+<!-- ratified by Wireless officers on ??? ?, ????. -->
 
 :::
 
@@ -191,13 +193,16 @@ coordinate with another door code holder to supervise them.
 Failure to follow rules outlined in this document may lead to an official
 warning or revocation of lab access, as deemed appropriate by the officer board.
 
-The current *President*, *Vice-President*, and *Lab Manager* are able to:
+The **Lab Admin** (*President*, *Vice-President*, *Facilities Manager*) are
+able to:
 - Issue warnings to members.
 - Suspend lab access for up to a week for major offences or during
   investigations.
+- Revoke lab access if a suspension is not formally contested by the affected
+  member
 
-Full access revocation may only be administered through a majority vote at an
-officer board meeting.
+If suspension is contested, full access revocation may only be administered
+through a majority vote at an officer board meeting.
 
 If your lab access was revoked, you may be deemed ineligible for lab access in
 the future based on the discretion of the officer board.
