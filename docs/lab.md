@@ -7,11 +7,9 @@ slug: /lab
 
 :::info
 
-**This lab policy is a draft**
-
-<!-- This lab policy applies to door holders starting from the **2026 Spring Cycle**. -->
-<!-- This version of the lab policy was last modified on Dec 15, 2025 and has been -->
-<!-- ratified by Wireless officers on ??? ?, ????. -->
+This lab policy applies to door holders starting from the **2026 Spring
+Cycle**. This version of the lab policy was last modified on Jan 15, 2026 and
+has been ratified by Wireless officers on Jan 26, 2026.
 
 :::
 
