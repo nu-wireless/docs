@@ -63,7 +63,7 @@ append-only log and trigger an alert.
 
 ## Retention, Copying, and Disclosure
 
-Footage from the last *31* (??) days shall be kept on a local system in a locked
+Footage shall be kept for no longer than 31 days on a local system in a locked
 enclosure. Cloud storage and third-party access shall be avoided to the extent
 that is possible.
 
